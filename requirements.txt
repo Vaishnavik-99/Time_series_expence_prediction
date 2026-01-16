@@ -1,1 +1,5 @@
-
+pandas
+matplotlib
+statsmodels
+numpy
+jupyter
